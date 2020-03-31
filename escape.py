@@ -1,0 +1,5 @@
+print("********** print following lines*********")
+print ("this is \\\\ double backshlash")
+print ("these are /\/\/\/\ mountains")
+print ("he is \t awesome")
+print ("\\\" \\n \\t \\\'")
